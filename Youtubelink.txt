@@ -31,3 +31,6 @@ questions about microservice archetecture?
 https://www.edureka.co/blog/interview-questions/microservices-interview-questions/
 
 https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f
+
+#steps to create microservice
+https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f
