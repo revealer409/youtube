@@ -6,3 +6,21 @@ youtube chanel name
 Lama Dev
 ==================================
 https://github.com/safak/youtube/tree/mern-ecommerce-app
+
+
+
+What are the objectives? How do you define success?
+If the project doesn't succeed, what are the implications?
+Why is this project so important? What is the case for change?
+What are the key milestones? What are the most important dates?
+What are the most important decisions that need to be made? What will prevent us from making those decisions?
+What are the biggest obstacles to getting this done?
+Who are the key stakeholders? Who's the owner/sponsor? Who influences but doesn't own? Who has the potential to be an obstacle?
+What are the project's greatest assets?
+How can we best leverage those assets?
+What are the most important areas we should always focus on?
+How much risk are you willing to take to accomplish this?
+What barriers have you encountered in the past about this issue?
+What keeps you up at night about this?
+What topics haven't we discussed? What topics would you rather not discuss?
+What is your personal passion about this project? What will this mean to you when we succeed?
