@@ -29,3 +29,5 @@ What is your personal passion about this project? What will this mean to you whe
 
 questions about microservice archetecture?
 https://www.edureka.co/blog/interview-questions/microservices-interview-questions/
+
+https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f
