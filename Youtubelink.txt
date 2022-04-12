@@ -24,3 +24,8 @@ What barriers have you encountered in the past about this issue?
 What keeps you up at night about this?
 What topics haven't we discussed? What topics would you rather not discuss?
 What is your personal passion about this project? What will this mean to you when we succeed?
+
+
+
+questions about microservice archetecture?
+https://www.edureka.co/blog/interview-questions/microservices-interview-questions/
